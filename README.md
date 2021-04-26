@@ -1,3 +1,3 @@
 # JS-Application-Exam
 Need to install lit-html and page : 
- - 'npm intall lit-html page' in the terminal , also run the server , that is in folder "server".
+ - Write 'npm install' in the terminal of VS code , so all libraries will be installed.Also need to start the server , that is in folder /server .
